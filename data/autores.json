@@ -1,0 +1,17 @@
+[
+    {
+        "autor_id": 2,
+        "nome": "J.K. Rowling",
+        "pais_origem": "Reino Unido"
+    },
+    {
+        "autor_id": 3,
+        "nome": "George Orwell",
+        "pais_origem": "Reino Unido"
+    },
+    {
+        "autor_id": 4,
+        "nome": "sdsdsd",
+        "nacionalidade": "eeee"
+    }
+]

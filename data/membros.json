@@ -1,0 +1,14 @@
+[
+    {
+        "membro_id": 1,
+        "nome": "João Silva",
+        "email": "joao@example.com",
+        "telefone": "123456789"
+    },
+    {
+        "membro_id": 2,
+        "nome": "Maria Souza",
+        "email": "maria@example.com",
+        "telefone": "987654321"
+    }
+]

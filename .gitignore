@@ -1,0 +1,13 @@
+# Arquivos Python compilados
+*.pyc
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+
+# Dependências instaladas
+lib/
+libs/
+library/
+libraries/

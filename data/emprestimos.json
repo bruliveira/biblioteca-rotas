@@ -1,0 +1,16 @@
+[
+    {
+        "emprestimo_id": 1,
+        "livro_id": 1,
+        "membro_id": 1,
+        "data_emprestimo": "2024-03-17",
+        "data_retorno_prevista": "2024-04-17"
+    },
+    {
+        "emprestimo_id": 3,
+        "livro_id": 1,
+        "membro_id": 1,
+        "data_emprestimo": "frf",
+        "data_devolucao": "f"
+    }
+]

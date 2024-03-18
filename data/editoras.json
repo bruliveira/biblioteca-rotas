@@ -1,0 +1,17 @@
+[
+    {
+        "editora_id": 1,
+        "nome": "Penguin Random House",
+        "localizacao": "Nova York"
+    },
+    {
+        "editora_id": 2,
+        "nome": "Bloomsbury",
+        "localizacao": "Londres"
+    },
+    {
+        "editora_id": 3,
+        "nome": "Houghton Mifflin Harcourt",
+        "localizacao": "Boston"
+    }
+]
